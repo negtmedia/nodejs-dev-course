@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: hsl(350, 40%, 80%);
+    height: 60px;
+    padding: 20px;
+}
+
+nav li {
+    float: left;
+    list-style-type: none;
+    padding: 8px 20px;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+footer {
+    background-color: hsl(0, 0%, 90%);
+    bottom: 0;
+    padding: 20px;
+    position: fixed;
+    width: 100%
+}
